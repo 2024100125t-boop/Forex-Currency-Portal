@@ -1,0 +1,9 @@
+name: forex_workspace
+
+environment:
+  sdk: ^3.8.1
+
+workspace:
+  - terminal_colors
+  - forex_api
+  - forex_cli
